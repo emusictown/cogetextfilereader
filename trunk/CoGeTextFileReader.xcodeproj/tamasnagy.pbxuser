@@ -45,12 +45,12 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 346337158;
-			PBXWorkspaceStateSaveDate = 346337158;
+			PBXPerProjectTemplateStateSaveDate = 346591548;
+			PBXWorkspaceStateSaveDate = 346591548;
 		};
 		perUserProjectItems = {
+			3080444914A8914600F09D45 /* PBXTextBookmark */ = 3080444914A8914600F09D45 /* PBXTextBookmark */;
 			30925F8114A4B2FE00E40D13 /* PBXTextBookmark */ = 30925F8114A4B2FE00E40D13 /* PBXTextBookmark */;
-			30925F8214A4B2FE00E40D13 /* PBXTextBookmark */ = 30925F8214A4B2FE00E40D13 /* PBXTextBookmark */;
 			30925F9514A4C02700E40D13 /* PBXTextBookmark */ = 30925F9514A4C02700E40D13 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 23E90CA40A83C4F400A6A40A /* Source Control */;
@@ -67,9 +67,9 @@
 	};
 	16BA95410A7EB2EB001E4983 /* CoGeTextFileReaderPlugIn.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1258, 2028}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1258, 2041}}";
 			sepNavSelRange = "{3329, 0}";
-			sepNavVisRange = "{2423, 1159}";
+			sepNavVisRange = "{2425, 1157}";
 		};
 	};
 	233E2C640A83C768005A62DF /* Build & Copy */ = {
@@ -128,6 +128,16 @@
 		path = "/Developer/Applications/Quartz Composer.app";
 		sourceTree = "<absolute>";
 	};
+	3080444914A8914600F09D45 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95410A7EB2EB001E4983 /* CoGeTextFileReaderPlugIn.m */;
+		name = "CoGeTextFileReaderPlugIn.m: 126";
+		rLen = 0;
+		rLoc = 3329;
+		rType = 0;
+		vrLen = 1157;
+		vrLoc = 2425;
+	};
 	30925F8114A4B2FE00E40D13 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 16BA95400A7EB2EB001E4983 /* CoGeTextFileReaderPlugIn.h */;
@@ -137,16 +147,6 @@
 		rType = 0;
 		vrLen = 604;
 		vrLoc = 0;
-	};
-	30925F8214A4B2FE00E40D13 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 16BA95410A7EB2EB001E4983 /* CoGeTextFileReaderPlugIn.m */;
-		name = "CoGeTextFileReaderPlugIn.m: 122";
-		rLen = 0;
-		rLoc = 3408;
-		rType = 0;
-		vrLen = 1083;
-		vrLoc = 2429;
 	};
 	30925F9514A4C02700E40D13 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;

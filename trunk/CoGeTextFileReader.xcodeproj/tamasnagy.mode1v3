@@ -323,11 +323,11 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>30925F9514A4C02700E40D13</string>
+										<string>3080444914A8914600F09D45</string>
 										<key>history</key>
 										<array>
 											<string>30925F8114A4B2FE00E40D13</string>
-											<string>30925F8214A4B2FE00E40D13</string>
+											<string>30925F9514A4C02700E40D13</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -339,14 +339,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1072, 457}}</string>
+								<string>{{0, 0}, {1072, 451}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 94 1280 684 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>457pt</string>
+							<string>451pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -359,14 +359,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 462}, {1072, 181}}</string>
+								<string>{{0, 456}, {1072, 187}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 94 1280 684 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>181pt</string>
+							<string>187pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -385,9 +385,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>30925F8414A4B2FE00E40D13</string>
+				<string>3080444614A8914600F09D45</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>30925F8514A4B2FE00E40D13</string>
+				<string>3080444714A8914600F09D45</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -525,10 +525,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>30925F9114A4B2FE00E40D13</string>
-		<string>30925F9214A4B2FE00E40D13</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>30925F8714A4B2FE00E40D13</string>
 		<string>/Users/tamasnagy/Documents/QC Projects/CoGeTextFileReader/CoGeTextFileReader.xcodeproj</string>
 	</array>
@@ -610,7 +606,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>30925F8714A4B2FE00E40D13</string>
-				<string>30925F8814A4B2FE00E40D13</string>
+				<string>3080444814A8914600F09D45</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
