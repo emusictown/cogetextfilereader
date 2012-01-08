@@ -304,14 +304,12 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>CoGeTextFileReaderPlugIn.m</string>
+								<string>Info.plist</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -319,15 +317,16 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>CoGeTextFileReaderPlugIn.m</string>
+										<string>Info.plist</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>3080444914A8914600F09D45</string>
+										<string>30C3AACC14B9D1EE004260DF</string>
 										<key>history</key>
 										<array>
 											<string>30925F8114A4B2FE00E40D13</string>
-											<string>30925F9514A4C02700E40D13</string>
+											<string>30BA20B414B9D1AD002B18F9</string>
+											<string>30BA20B614B9D1AD002B18F9</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -339,14 +338,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1072, 451}}</string>
+								<string>{{0, 0}, {1072, 432}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 94 1280 684 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>451pt</string>
+							<string>432pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -359,14 +358,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 456}, {1072, 187}}</string>
+								<string>{{0, 437}, {1072, 206}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 94 1280 684 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>187pt</string>
+							<string>206pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -385,9 +384,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>3080444614A8914600F09D45</string>
+				<string>30C3AAC114B9D1CC004260DF</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>3080444714A8914600F09D45</string>
+				<string>30C3AAC214B9D1CC004260DF</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -525,6 +524,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>30C3AAD414B9D1EE004260DF</string>
+		<string>30C3AAD514B9D1EE004260DF</string>
+		<string>1C78EAAD065D492600B07095</string>
+		<string>1CD10A99069EF8BA00B06720</string>
 		<string>30925F8714A4B2FE00E40D13</string>
 		<string>/Users/tamasnagy/Documents/QC Projects/CoGeTextFileReader/CoGeTextFileReader.xcodeproj</string>
 	</array>
@@ -606,7 +609,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>30925F8714A4B2FE00E40D13</string>
-				<string>3080444814A8914600F09D45</string>
+				<string>30C3AAC314B9D1CC004260DF</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -650,8 +653,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {316, 185}}</string>
-											<string>{{316, 0}, {378, 185}}</string>
+											<string>{{0, 0}, {316, 198}}</string>
+											<string>{{316, 0}, {378, 198}}</string>
 										</array>
 									</dict>
 									<key>VerticalSplitView</key>
@@ -666,8 +669,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {694, 185}}</string>
-											<string>{{0, 185}, {694, 196}}</string>
+											<string>{{0, 0}, {694, 198}}</string>
+											<string>{{0, 198}, {694, 183}}</string>
 										</array>
 									</dict>
 								</dict>
@@ -700,7 +703,7 @@
 										<real>148</real>
 									</array>
 									<key>Frame</key>
-									<string>{{316, 0}, {378, 185}}</string>
+									<string>{{316, 0}, {378, 198}}</string>
 									<key>RubberWindowFrame</key>
 									<string>21 333 694 422 0 0 1280 778 </string>
 								</dict>
@@ -728,13 +731,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>30925F8914A4B2FE00E40D13</string>
+				<string>30C3AACD14B9D1EE004260DF</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>30925F8A14A4B2FE00E40D13</string>
-				<string>30925F8B14A4B2FE00E40D13</string>
-				<string>30925F8C14A4B2FE00E40D13</string>
-				<string>30925F8D14A4B2FE00E40D13</string>
-				<string>30925F8E14A4B2FE00E40D13</string>
+				<string>30C3AACE14B9D1EE004260DF</string>
+				<string>30C3AACF14B9D1EE004260DF</string>
+				<string>30C3AAD014B9D1EE004260DF</string>
+				<string>30C3AAD114B9D1EE004260DF</string>
+				<string>30C3AAD214B9D1EE004260DF</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -873,7 +876,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {650, 209}}</string>
 								<key>RubberWindowFrame</key>
-								<string>21 505 650 250 0 0 1280 778 </string>
+								<string>1467 366 650 250 1280 -250 1680 1050 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXDebugCLIModule</string>
@@ -896,13 +899,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>30925F8F14A4B2FE00E40D13</string>
+				<string>30C3AAD314B9D1EE004260DF</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.consoleV3</string>
 			<key>WindowString</key>
-			<string>21 505 650 250 0 0 1280 778 </string>
+			<string>1467 366 650 250 1280 -250 1680 1050 </string>
 			<key>WindowToolGUID</key>
 			<string>1C78EAAD065D492600B07095</string>
 			<key>WindowToolIsVisible</key>

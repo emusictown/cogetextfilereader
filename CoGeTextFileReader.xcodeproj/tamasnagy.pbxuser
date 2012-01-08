@@ -1,6 +1,7 @@
 // !$*UTF8*$!
 {
 	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeArchitecturePreference = i386;
 		activeBuildConfigurationName = Release;
 		activeExecutable = 23E90CA60A83C53500A6A40A /* Quartz Composer */;
 		activeTarget = 233E2C640A83C768005A62DF /* Build & Copy */;
@@ -45,13 +46,14 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 346591548;
-			PBXWorkspaceStateSaveDate = 346591548;
+			PBXPerProjectTemplateStateSaveDate = 347722187;
+			PBXWorkspaceStateSaveDate = 347722187;
 		};
 		perUserProjectItems = {
-			3080444914A8914600F09D45 /* PBXTextBookmark */ = 3080444914A8914600F09D45 /* PBXTextBookmark */;
 			30925F8114A4B2FE00E40D13 /* PBXTextBookmark */ = 30925F8114A4B2FE00E40D13 /* PBXTextBookmark */;
-			30925F9514A4C02700E40D13 /* PBXTextBookmark */ = 30925F9514A4C02700E40D13 /* PBXTextBookmark */;
+			30BA20B414B9D1AD002B18F9 /* PBXTextBookmark */ = 30BA20B414B9D1AD002B18F9 /* PBXTextBookmark */;
+			30BA20B614B9D1AD002B18F9 /* PlistBookmark */ = 30BA20B614B9D1AD002B18F9 /* PlistBookmark */;
+			30C3AACC14B9D1EE004260DF /* PlistBookmark */ = 30C3AACC14B9D1EE004260DF /* PlistBookmark */;
 		};
 		sourceControlManager = 23E90CA40A83C4F400A6A40A /* Source Control */;
 		userBuildSettings = {
@@ -67,9 +69,9 @@
 	};
 	16BA95410A7EB2EB001E4983 /* CoGeTextFileReaderPlugIn.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1258, 2041}}";
-			sepNavSelRange = "{3329, 0}";
-			sepNavVisRange = "{2425, 1157}";
+			sepNavIntBoundsRect = "{{0, 0}, {1258, 2275}}";
+			sepNavSelRange = "{3643, 0}";
+			sepNavVisRange = "{2607, 1274}";
 		};
 	};
 	233E2C640A83C768005A62DF /* Build & Copy */ = {
@@ -128,16 +130,6 @@
 		path = "/Developer/Applications/Quartz Composer.app";
 		sourceTree = "<absolute>";
 	};
-	3080444914A8914600F09D45 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 16BA95410A7EB2EB001E4983 /* CoGeTextFileReaderPlugIn.m */;
-		name = "CoGeTextFileReaderPlugIn.m: 126";
-		rLen = 0;
-		rLoc = 3329;
-		rType = 0;
-		vrLen = 1157;
-		vrLoc = 2425;
-	};
 	30925F8114A4B2FE00E40D13 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 16BA95400A7EB2EB001E4983 /* CoGeTextFileReaderPlugIn.h */;
@@ -148,15 +140,37 @@
 		vrLen = 604;
 		vrLoc = 0;
 	};
-	30925F9514A4C02700E40D13 /* PBXTextBookmark */ = {
+	30BA20B414B9D1AD002B18F9 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 16BA95410A7EB2EB001E4983 /* CoGeTextFileReaderPlugIn.m */;
-		name = "CoGeTextFileReaderPlugIn.m: 126";
+		name = "CoGeTextFileReaderPlugIn.m: 132";
 		rLen = 0;
-		rLoc = 3329;
+		rLoc = 3643;
 		rType = 0;
-		vrLen = 1159;
-		vrLoc = 2423;
+		vrLen = 1274;
+		vrLoc = 2607;
+	};
+	30BA20B614B9D1AD002B18F9 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/tamasnagy/Documents/QC Projects/CoGeTextFileReader/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	30C3AACC14B9D1EE004260DF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/tamasnagy/Documents/QC Projects/CoGeTextFileReader/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
 	};
 	8D5B49AC048680CD000E48DA /* CoGeTextFileReader */ = {
 		activeExec = 0;
