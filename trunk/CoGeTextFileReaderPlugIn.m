@@ -12,7 +12,7 @@
 #import "CoGeTextFileReaderPlugIn.h"
 
 #define	kQCPlugIn_Name				@"CoGeTextFileReader"
-#define	kQCPlugIn_Description		@"CoGeTextFileReader"
+#define	kQCPlugIn_Description		@"CoGeTextFileReader reads text from file into an indexed structure, components divided by space character."
 
 @implementation CoGeTextFileReaderPlugIn
 
@@ -122,8 +122,22 @@ Here you need to declare the input / output properties as dynamic as Quartz Comp
 	*/
 	
 	if ([self didValueForInputKeyChange:@"inputFilePath"]) {
+		
+		if (([[self.inputFilePath pathExtension] isEqualToString:@"rtf"]) || ([[self.inputFilePath pathExtension] isEqualToString:@"rtfd"])) {
+						
+			NSAttributedString *tempstr = [[NSAttributedString alloc] initWithPath:self.inputFilePath documentAttributes:nil];
+		
+		//	NSLog(@"here: %@", tempstr );
+			
+			self.outputText = [[tempstr string] componentsSeparatedByString:@" "];
+
+			[tempstr release];
+			
+		} else {
+
+			self.outputText = [[NSString stringWithContentsOfFile:self.inputFilePath encoding:NSUTF8StringEncoding error:NULL] componentsSeparatedByString:@" "];
+		}
 	
-		self.outputText = [[NSString stringWithContentsOfFile:self.inputFilePath encoding:NSUTF8StringEncoding error:NULL] componentsSeparatedByString:@" "];
 		
 	} else {
 	
