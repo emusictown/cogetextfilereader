@@ -1,0 +1,1 @@
+A simple plugin reads a .txt, .rtf and .rtfd files into an indexed structure.
